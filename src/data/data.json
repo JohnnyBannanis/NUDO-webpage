@@ -2,13 +2,14 @@
     "Header": {
 
         "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "paragraph": "Empresa de vasta experiencia dedicada a la Ingeniería Estructural, Coordinación y Gerencia de Proyectos."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "NUDO Ingenieros es una empresa de vasta experiencia, creada en 1997 y dedicada a la Ingeniería Estructural, Coordinación y Gerencia de Proyectos. Creemos en el proyecto de excelencia, es por esto que brindamos una asesoría personalizada buscando cumplir con las expectativas de nuestros clientes, ya sean técnicas, económicas o arquitectónicas.", 
+        "paragraph2":"Nuestros profesionales están en un constante estudio y actualización de sus conocimientos, asegurando la calidad de todos los proyectos. Desde el 2009 hemos introducido el concepto BIM (Building Information Modeling), implementando una plataforma de edificación virtual que pone a NUDO en la vanguardia del área de construcción.",
         "Why": [
-            "Lorem ipsum dolor",
+            "Lorem Lorem Lorem",
             "Tempor incididunt",
             "Lorem ipsum dolor",
             "Incididunt ut labore"
@@ -21,68 +22,51 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-bar-chart",
+            "name": "Gerencia de Proyectos",
+            "text": "Desarrollo y gestión integral de proyectos desde la etapa conceptual hasta la elaboración y dirección de las distintas especialidades de acuerdo a los requerimientos del mandante. Adicionalmente podemos brindar los servicios de licitación e inspección técnica de obra que permitan la supervisión en la etapa de ejecución de los proyectos.",
+            "list": [
+                "Arquitectura",
+                "Estructura",
+                "Eficiencia Energética",
+                "Especialidades",
+                "Proyectos Especiales"
+            ]
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-sitemap",
+            "name": "Coordinación BIM de Proyectos",
+            "text": "Coordinación de especialidades a partir de la elaboración de modelos BIM para la detección de interferencias en los proyectos. Nuestro énfasis está en la solución de los problemas detectados, mejorando la comunicación y participación interdisciplinaria.",
+            "list": [
+                "Modelado 3D",
+                "Coordinación y detección de interferencias",
+                "Modelado 4D, incorporando Carta Gantt al modelo 3D",
+                "Análisis de métodos constructivos y montaje de equipos en 4D",
+                "Cubicaciones a partir del modelo 3D"
+            ]
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-building",
+            "name": "Ingeniería Estructural",
+            "text": "Con más de 15 años de experiencia en el desarrollo de proyectos de estructura de distinta índole (Edificios tanto de hormigón como de acero, Naves Industriales, Plantas de Producción, etc)",
+            "list": [
+                "Asesoría en Ingeniería Estructural",
+                "Diseño de proyectos de Estructura",
+                "Inspección Técnica Estructural",
+                "Sistemas de aislación sísmica y disipación de energía"
+            ]
+        
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-check-square",
+            "name": "Revisión Estructural",
+            "text": "Contamos con un revisor inscrito en el registro nacional de revisores de proyecto de cálculo estructural.",
+            "list": [
+                
+            ]
         }
 
 
-    ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
     ],
     "Team": [{
             "img": "img/team/01.jpg",
@@ -105,9 +89,9 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "7 oriente 1520 Of. 2, Talca",
+        "phone": "(+56) 71 2511 003",
+        "email": "CORREO-CORREO@nudo.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
