@@ -9,9 +9,8 @@ export const ProyectCard = (props) => {
                 <div className="col-12 hover-card-text">
                   {props.title}
                 </div>
-                <div className="col-12 hover-card-text">
+                <div className="col-12 hover-card-text header-content">
                   {props.content}
-                  
                 </div>
               </div>
             </div>

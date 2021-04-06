@@ -8,10 +8,10 @@ export const Energia = (props) => {
                 <h3>CENTRAL HIDROELECTRICA LA MINA</h3>
             }
             content={<>
-                <h4>Comuna de San Clemente</h4>
-                <h4>COLBÚN</h4>
-                <h4>Coordinación, Revisión de planos, Asesoría de obra</h4>
-                <h4>2013</h4>
+                <h5>Comuna de San Clemente</h5>
+                <h5>COLBÚN</h5>
+                <h5>Coordinación, Revisión de planos, Asesoría de obra</h5>
+                <h5>2013</h5>
                 </>
             }
             img='img/proyects/energia/01.jpg'/>
@@ -20,10 +20,10 @@ export const Energia = (props) => {
                 <h3>PLANTA GENERADORA 13,6 MW</h3>
             }
             content={<>
-                <h4>Planta Teno</h4>
-                <h4>Cementos Bio Bio</h4>
-                <h4>Diseño Estructural</h4>
-                <h4>2008</h4>
+                <h5>Planta Teno</h5>
+                <h5>Cementos Bio Bio</h5>
+                <h5>Diseño Estructural</h5>
+                <h5>2008</h5>
                 </>
             }
             img='img/proyects/energia/02.jpg'/>

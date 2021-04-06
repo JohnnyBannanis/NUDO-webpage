@@ -79,7 +79,7 @@ export const Contact = (props) => {
                         id='name'
                         name='name'
                         className='form-control'
-                        placeholder='Nombre - Institucion'
+                        placeholder='Nombre'
                         required
                         onChange={handleChange}
                       />

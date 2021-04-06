@@ -8,10 +8,10 @@ export const Infraestructura = (props) => {
               <h3>PLAZAS DE PEAJE, EDIFICIOS ADMINISTRACIÓN Y SERVICIOS</h3>
           }
           content={<>
-              <h4>Ruta H-60</h4>
-              <h4>CONCESIONARIA OHL</h4>
-              <h4>Gestión de Proyectos (Arquitectura, Diseño Estructural, Especialidades y Coordinación)</h4>
-              <h4>2007</h4>
+              <h5>Ruta H-60</h5>
+              <h5>CONCESIONARIA OHL</h5>
+              <h5>Gestión de Proyectos (Arquitectura, Diseño Estructural, Especialidades y Coordinación)</h5>
+              <h5>2007</h5>
               </>
           }
           img='img/proyects/Infraestructura/01.jpg'
@@ -21,9 +21,9 @@ export const Infraestructura = (props) => {
                 <h3>ESTRUCTURA PÓRTICOS PEAJES LIBERADOS RUTA 5</h3>
             }
             content={<>
-                <h4>AUTOPISTA DEL MAIPO</h4>
-                <h4>Arquitectura y Estructural</h4>
-                <h4>2002</h4>
+                <h5>AUTOPISTA DEL MAIPO</h5>
+                <h5>Arquitectura y Estructural</h5>
+                <h5>2002</h5>
                 </>
             }
           img='img/proyects/Infraestructura/02.jpg'
@@ -33,10 +33,10 @@ export const Infraestructura = (props) => {
                 <h3>PLAZAS DE PEAJE ANGOSTURA, QUINTA</h3>
             }
             content={<>
-                <h4>Acceso Oriente</h4>
-                <h4>AUTOPISTA DEL MAIPO</h4>
-                <h4>Diseño Estructural</h4>
-                <h4>2001</h4>
+                <h5>Acceso Oriente</h5>
+                <h5>AUTOPISTA DEL MAIPO</h5>
+                <h5>Diseño Estructural</h5>
+                <h5>2001</h5>
                 </>
             }
           img='img/proyects/Infraestructura/03.jpg'
@@ -46,10 +46,10 @@ export const Infraestructura = (props) => {
               <h3>PLAZAS DE PEAJE LATERALES RUTA 5</h3>
           }
           content={<>
-              <h4>Santiago-Talca</h4>
-              <h4>AUTOPISTA DEL MAIPO</h4>
-              <h4>Arquitectura y Estructural</h4>
-              <h4>2001</h4>
+              <h5>Santiago-Talca</h5>
+              <h5>AUTOPISTA DEL MAIPO</h5>
+              <h5>Arquitectura y Estructural</h5>
+              <h5>2001</h5>
               </>
           }
           img='img/proyects/Infraestructura/04.jpg'
